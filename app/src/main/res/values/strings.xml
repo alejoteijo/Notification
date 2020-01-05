@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="notify_me">notify me!</string>
+    <string name="update_me">update me!</string>
+    <string name="cancel_me">cancel me!</string>
+    <string name="description">Notification from mascot</string>
+</resources>
